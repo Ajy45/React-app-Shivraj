@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.main{
+    width: 600px;
+   
+    
+
+}
+
+
+.container{
+    height: 400px;
+    width: 1000px;
+    background-color:black;
+    display: flex;
+
+}
+.head{
+    color:blueviolet;
+    margin-right: 10px;
+    text-align: center;
+}
+.para{
+
+    color: blanchedalmond ;
+    margin: 20px;
+    text-align:justify;
+}
+.but{
+
+    background-color: red;
+    margin:auto;
+    height: 30px;
+    width: 100px;
+    display: block;
+    
+    
+    
+}
+.ajay{
+
+    border: solid brown;
+    margin: 20px;
+    
+}

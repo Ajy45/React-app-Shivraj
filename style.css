@@ -1,0 +1,29 @@
+
+.main{
+display:flex;
+flex-direction:row;
+flex-wrap: wrap;
+background: rgb(245, 240, 246);
+}
+.st{
+    height: 300px;
+    width: 300px;
+    border:solid rgb(239, 81, 81);
+    text-align: center;
+    margin:20px;
+
+}
+.btn{
+    height: 35px;
+    width: 100px;
+    background:black;
+    color: rgb(238, 238, 238);
+    border-radius: 15px;
+}
+.flex{
+    display: flex;
+    justify-content:center;
+}
+.icon{
+background-color: blue;
+}
